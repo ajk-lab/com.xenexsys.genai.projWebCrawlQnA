@@ -165,4 +165,3 @@ APIKey.txt
 .env
 .DS_Store
 src/com.xenxsys.genai.projWebCrawlQnA.core/conf.json
-src/com.xenxsys.genai.projConf.core/.env.production

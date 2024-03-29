@@ -28,7 +28,7 @@ ConfReaderKeyValue = ConfReader.Config.load_json(conf_json_location)
 
 client = OpenAI(api_key = ConfReaderKeyValue.openai_api_key_1)
 
-print("Connection is successful")
+print("Connection is successful !")
 
 # %%
 completion = client.chat.completions.create(
