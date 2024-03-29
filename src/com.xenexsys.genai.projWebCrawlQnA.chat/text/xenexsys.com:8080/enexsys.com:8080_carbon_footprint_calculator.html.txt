@@ -1,0 +1,40 @@
+
+
+
+Carbon Footprint Calculator
+
+
+
+
+Carbon Footprint Calculator
+Miles Driven Annually:
+ miles
+
+        Electricity Consumed (kWh):
+ kWh
+
+        Natural Gas Consumed (therms):
+ therms
+
+        Number of Flights Taken Annually:
+ flights
+
+        Calculate
+
+            Your estimated annual carbon footprint is: 0 kilograms of CO2 equivalent.
+        
+
+
+
+
+
+
+
+Total CO2 Emissions per Capita (World Bank Data)
+
+
+
+
+
+
+

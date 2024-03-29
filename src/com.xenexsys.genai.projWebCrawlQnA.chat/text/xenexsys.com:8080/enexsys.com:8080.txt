@@ -1,0 +1,44 @@
+
+
+
+SDG Awareness Portal and Carbon Footprint Calculator
+
+
+Ajay:Welcome to the SDG Awareness Portal
+This portal is dedicated to raising awareness about the United Nations' Sustainable Development Goals (SDGs) and their significance in addressing global challenges. Our mission is to inform and inspire individuals and communities to take action towards a more sustainable and equitable world.
+Objectives of this Portal
+Our portal aims to achieve the following objectives:
+
+Inform and Educate: Provide information and resources related to the SDGs, including their goals, targets, and the importance of each goal.
+Raise Awareness: Create awareness about critical global issues addressed by the SDGs, including zero hunger, climate action, quality education, and more.
+Visualize Data: Use charts and visual representations to illustrate progress and challenges in achieving SDGs using real-world data from sources like the World Bank.
+Promote Action: Encourage individuals, communities, and organizations to take action, support initiatives, and contribute to the achievement of SDGs.
+
+Explore the SDGs
+Click on the links below to explore specific Sustainable Development Goals:
+
+
+SDG 1: No Poverty
+SDG 2: Zero Hunger - Learn about efforts to create a world free of hunger by 2030.
+SDG 3: Good Health and Well-being
+SDG 4: Quality Education
+SDG 5: Gender Equality
+SDG 6: Clean Water and Sanitation
+SDG 7: Affordable and Clean Energy
+SDG 8: Decent Work and Economic Growth
+SDG 9: Industry, Innovation, and Infrastructure
+SDG 10: Reduced Inequality
+SDG 11: Sustainable Cities and Communities
+SDG 12: Responsible Consumption and Production
+SDG 13: Climate Action - Discover the actions required to combat climate change and its impacts.
+SDG 14: Life Below Water
+SDG 15: Life on Land
+SDG 16: Peace, Justice, and Strong Institutions
+SDG 17: Partnerships for the Goals
+
+Carbon Footprint Calculator Widget
+Calculate your carbon footprint and learn how you can contribute to SDG 13: Climate Action.
+Go to Carbon Footprint Calculator TOOLS
+Join us in our mission to make the world a better place by working towards the SDGs. Together, we can create positive change for the planet and its people.
+
+
